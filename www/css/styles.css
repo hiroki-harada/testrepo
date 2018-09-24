@@ -1,0 +1,42 @@
+/* set padding for iOS7 status bar */
+.ua-ios-7 .ui-page, .ua-ios-8, .ui-page {
+    padding-top: 63px !important;
+}
+
+.ua-ios-7 .ui-header, .ua-ios-8 .ui-header {
+    top: 20px;
+}
+
+.icon{
+  width:400px;
+}
+
+img{
+  width:100px;
+}
+
+li {
+  margin: 5px;
+	float: left;
+  list-style: none;
+}
+
+.homeimg1{
+  background-image: url(home1.jpg);
+  width: 100px;
+}
+/*.homeimg2{
+  
+}
+.homeimg3{
+  
+}
+.homeimg4{
+  
+}
+.homeimg5{
+  
+}
+.homeimg6{
+  
+} */
